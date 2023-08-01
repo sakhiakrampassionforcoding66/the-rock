@@ -1,0 +1,22 @@
+
+body{
+    background-color: lightgrey;
+    text-align: center;
+}
+
+
+.choiceBtn{
+    line-height: 30px;
+    width: 150px;
+}
+#gameDiv{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 10px;
+    
+}
+#playerText{
+    color: brown;
+}
+#computerText{
+    color: black;
+}
